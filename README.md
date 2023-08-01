@@ -52,6 +52,6 @@ After building the model we need to present our results back to the client. A li
 <br>
 
 ### **Result**
-[Check out in the Looker Studio!]() <br>
+[Check out in the Looker Studio!](https://lookerstudio.google.com/u/0/reporting/060cc9b6-3b6e-40a2-a1a8-933c5a0428a4/page/p_5rnpric81c) <br>
 <br>
 
